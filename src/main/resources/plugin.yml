@@ -1,0 +1,6 @@
+name: Lickmajoe
+version: '${project.version}'
+main: lukh.lickmajoe.Lickmajoe
+api-version: 1.16
+authors: [ Luk_H ]
+website: twitch.tv/luk__h
